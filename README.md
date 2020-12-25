@@ -1,2 +1,6 @@
 # welcome
-welcome
+Hello , welcome.
+
+See ya.
+
+Shuuussss.
